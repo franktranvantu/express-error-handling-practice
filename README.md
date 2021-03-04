@@ -1,0 +1,2 @@
+# About this Practice
+In this practice session, you'll get to sharpen your error handling skills in Express. Handling errors well helps users understand what's going on with your app when something goes wrong.
